@@ -1,4 +1,4 @@
-name: My Snyk
+name: WillSnyk
 on: push
 jobs:
   security:
