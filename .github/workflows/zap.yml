@@ -1,4 +1,4 @@
-name: ZAPScan
+name: ZAPScan100
 
 on: [push]
 
