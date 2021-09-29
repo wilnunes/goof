@@ -1,4 +1,4 @@
-name: WillSnyk
+name: WillSnyk10
 on: push
 jobs:
   security:
